@@ -102,6 +102,7 @@ int main(int argc, char **argv){
 		
 
 	file.close();
+	out.close();
 	return 0;
 	
 }
